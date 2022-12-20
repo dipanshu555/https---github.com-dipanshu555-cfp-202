@@ -47,12 +47,10 @@ a{
     line-height: 2;
    
 }
-img.flogo{
-    display: block;
-height: calc(var(--logo-sticky)*1.2);
-width: auto;
+footer picture{
+    height: 20px;
+    width: 20px;
 }
-
 
 .container {
     display: flex;
@@ -101,7 +99,7 @@ width: auto;
 }
 
 .pic7 {
-    background-image: url(https://discoverylandco.com/imager/images/8812/DJI_0265_RET_2_210405_212842_d169f13de117664acdaa1543841b7c16.jpg);
+   background-image: url(DJI_0265_RET_2_210405_212842_d169f13de117664acdaa1543841b7c16);
 }
 
 .pic8 {

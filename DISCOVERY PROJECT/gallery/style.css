@@ -44,8 +44,12 @@ img.logo{
     margin: 50px;
 }
   .footer{
-    height: 50vh;
+    display: flex;
     background-color:#161f1e;
+    height: 50vh;
+    justify-content: space-between;
+    align-items: flex-end;
+    
   }  
 .pic{
     
